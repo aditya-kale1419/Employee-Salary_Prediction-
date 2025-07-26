@@ -34,6 +34,8 @@ README.md – Project documentation
 
 project_report.pdf – PDF presentation/report
 
+adult 3.csv - Dataset
+
 📈 Prediction Output
 If Income > 50K → ₹75,000/month
 
